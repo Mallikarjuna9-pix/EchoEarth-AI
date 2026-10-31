@@ -1,0 +1,6 @@
+{
+  "name": "EchoEarth AI",
+  "description": "Give every waste item a second life with AI-driven material analysis, creative upcycling guides, safety notes, and circular impact tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
